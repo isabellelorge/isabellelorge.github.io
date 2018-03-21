@@ -1,5 +1,4 @@
-name=Isabelle Lorge
-markdown= kramdown
+
 
 gems:
 - jekyll-seo-tag
